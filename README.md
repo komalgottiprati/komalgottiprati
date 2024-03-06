@@ -51,7 +51,7 @@
                     <img src="assets/imgs/avatar.jpg" alt="" class="brand-img">
                     <li class="brand-txt">
                         <h5 class="brand-title">Komal Gottiprati</h5>
-                        <div class="brand-subtitle">Web Designer | Developer</div>
+                        <div class="brand-subtitle">WordPress Developer | Developer</div>
                     </li>
                 </ul>
                
